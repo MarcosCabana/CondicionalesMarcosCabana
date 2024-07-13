@@ -1,7 +1,7 @@
 //! Ejercicio 1
 
-let numero1 = prompt("ingrese el primer numero:")
-let numero2 = prompt("ingrese el segundo numero:")
+// let numero1 = prompt("ingrese el primer numero:")
+// let numero2 = prompt("ingrese el segundo numero:")
 
 // if (numero1<numero2) {
 //     console.log("el numero 1 no es mayor al numero 2.")
@@ -29,17 +29,17 @@ let numero2 = prompt("ingrese el segundo numero:")
 
 //! Ejercicio 4 (var de ej 1 + var del ej 4)
 
-let numero3 = prompt("Ingrese el tercer numero:")
+// let numero3 = prompt("Ingrese el tercer numero:")
 
-if (numero1 < numero2 && numero1 < numero3) {
-    console.log("El numero 1 es el mas chico.");
-} else {
-    if (numero2 < numero1 && numero2 < numero3) {
-        console.log("El numero 2 es el mas chico.");
-    } else {
-        console.log("El numero 3 es el mas chico.");
-    }
-}
+// if (numero1 < numero2 && numero1 < numero3) {
+//     console.log("El numero 1 es el mas chico.");
+// } else {
+//     if (numero2 < numero1 && numero2 < numero3) {
+//         console.log("El numero 2 es el mas chico.");
+//     } else {
+//         console.log("El numero 3 es el mas chico.");
+//     }
+// }
 
 //! Ejercicio 5
 
